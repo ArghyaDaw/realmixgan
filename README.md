@@ -49,8 +49,13 @@ Final figures and generated images are saved to `outputs/` and `docs/figures/`.
 This project is released under the MIT License.
 ## Authors
 
-Ankit Sen, Arghya Daw, Subhadip Malakar, Sayan Biswas
+Ankit Sen,
+Arghya Daw, 
+Subhadip Malakar,
+Sayan Biswas
+
 Mentor: Dr. Sumanta Ray
+
 IEEE CIS Kolkata Chapter — Summer Internship 2025
 
 ## Acknowledgement
