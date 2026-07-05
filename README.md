@@ -24,3 +24,7 @@ This project is released under the MIT License.
 Ankit Sen, Arghya Daw, Subhadip Malakar, Sayan Biswas
 Mentor: Dr. Sumanta Ray
 IEEE CIS Kolkata Chapter — Summer Internship 2025
+
+## Acknowledgement
+
+This repository contains my copy of the work completed during a college group internship from IEEE. I contributed to the project as part of the team.
